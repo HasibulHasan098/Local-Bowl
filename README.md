@@ -43,7 +43,7 @@ The app calculates bowling speed based on the time taken for the ball to travel 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/local-bowl.git
+   git clone https://github.com/HasibulHasan098/Local-Bowl.git
    ```
 2. Install dependencies:
    ```bash
