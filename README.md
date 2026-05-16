@@ -31,7 +31,6 @@ The app calculates bowling speed based on the time taken for the ball to travel 
 ### 🎨 Premium Experience
 - **Animated Splash Screen**: A beautiful, fluid entry animation.
 - **Modern UI**: Built with a sleek, Pinterest-inspired aesthetic using **HugeIcons**.
-- **Dark/Light Mode Aware**: Optimized for high-visibility in outdoor environments.
 
 ## 🚀 Getting Started
 
